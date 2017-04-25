@@ -49,7 +49,48 @@ Title of presentation:Crime in Chicago
 What were aspects of the presentation that you liked:
 Explain data clearly and make comparisons of plots.The using of restaurants to get locations is interesting.
 What were aspects of the presentations for which you had concerns or questions:
-The 
+
+Title of presentation:H1B
+
+What were aspects of the presentation that you liked: 
+This data is really interesting.
+
+What were aspects of the presentations for which you had concerns or questions:
+I'm not sure about what are the cluster plots talking about.
 
 
+Title of presentation:Traffic
+
+What were aspects of the presentation that you liked:
+Residual plots are good.
+
+What were aspects of the presentations for which you had concerns or questions:
+I do not understand why there exists a straight line in the residual plot.
+
+
+Title of presentation:Song
+
+What were aspects of the presentation that you liked:
+This topic is so fascinating.
+
+What were aspects of the presentations for which you had concerns or questions:
+The presentation is too long and I am not sure what model they are trying to build.
+
+
+Title of presentation:NBA
+
+What were aspects of the presentation that you liked:
+I love this topic and the hit map is interesting.
+
+What were aspects of the presentations for which you had concerns or questions:
+I don't know what their model is trying to do but I think they focus too much on big guys' stats but not expressing what these big huys can do for their team.
+
+
+
+Title of presentation:Terrorism
+
+What were aspects of the presentation that you liked:
+Advanced topic.
+What were aspects of the presentations for which you had concerns or questions:
+How to define terrorism? Death # of ppl?
 
